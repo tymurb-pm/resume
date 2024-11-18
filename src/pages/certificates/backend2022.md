@@ -1,9 +1,9 @@
 ---
-title: Certified Tactical Emergency Medical Technician (TEMT)
-org: 123 Main Street, Los Angeles
-tags: [Tactical Medicine, First Aid Training, Critical Care, Triage Protocol]
-url: http://akazedu.edu/seaghi
-date: 1992
+title: Certified Associate in Project Management (CAPM)®
+org: Project Management Institute (PMI)
+tags: [Agile Principles, Business Analysis Framework, Communication Management, Cost Management, Integration Management, Predictive Methodologies, Project Management, Quality Management, Risk Management, Scope Management, Time Management] 
+url: https://www.credly.com/badges/b00baa81-8e25-4021-8f21-c6d80563c825/public_url
+date: 2024
 ---
 
-The Tactical Emergency Medical Technician (TEMT) certification trains healthcare professionals to provide advanced medical care in tactical and high-risk environments, such as law enforcement operations, military settings, or emergency response scenarios. TEMTs are trained to rapidly assess and treat traumatic injuries, stabilize patients in adverse conditions, and closely collaborate with tactical and rescue teams to ensure the safety and well-being of victims.
+Earners of the globally-recognized Certified Associate in Project Management (CAPM)® have been formally evaluated for demonstrated knowledge, skill and understanding of the processes, terminology, and best practices in Project Management Fundamentals, Predictive Methodologies, Agile Principles and Business Analysis that are needed for effective project management
