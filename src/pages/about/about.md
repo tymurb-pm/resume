@@ -1,10 +1,9 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+name: "Tymur Buiadzhi"
+designation: "IT Project Manager"
+location: Rye, England
+website: "http://buiadzhi.com"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+Aspiring IT Project Manager with a CAPM certification, seeking to transition into a role where I can apply my project management skills and technical knowledge. A disciplined and detail-oriented leader with hands-on experience managing cross-functional teams, navigating complex operations, and ensuring project timelines in high-pressure environments. Experienced in risk management, compliance, and resource planning, with a knowledge of project management tools such as Jira, Confluence, and Trello. Highly adept at managing teams and collaborating across diverse environments, with a focus on delivering results within time-sensitive frameworks.
