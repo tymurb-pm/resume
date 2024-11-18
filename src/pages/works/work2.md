@@ -1,9 +1,9 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: Community Manager
+date: 2022
+url: https://shardeum.org/
+location: Remote
+org: Shardeum - blockchain startup
 tags:
   [
     "SWAT",
